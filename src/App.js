@@ -1,5 +1,5 @@
 import './config/ReactotronConfig';
-import 'dotenv/config'
+
 import React from 'react';
 import { PersistGate } from 'redux-persist/integration/react';
 import { Router } from 'react-router-dom';
