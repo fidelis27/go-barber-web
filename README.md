@@ -8,8 +8,7 @@ Resultado Final:
 * Cadastro
 ![](https://raw.githubusercontent.com/tgmarinho/Images/master/bootcamp-rocketseat/gobarber-web-signup.png)
 * Profile
-![](https://raw.githubusercontent.com/tgmarinho/Images/master/bootcamp-rocketseat/gobarber-web-profile.png)
+![](https://user-images.githubusercontent.com/45233696/76221033-31e30780-61f7-11ea-9d09-288acec8e2a4.jpg)
 * Dashboard
-![](https://raw.githubusercontent.com/tgmarinho/Images/master/bootcamp-rocketseat/gobarber-web-dash2.png)
-* Dashboard 2
-![](https://raw.githubusercontent.com/tgmarinho/Images/master/bootcamp-rocketseat/gobarber-web-dash.png.png)
+![](https://user-images.githubusercontent.com/45233696/76221128-5808a780-61f7-11ea-92a4-63a98bcb6505.png)
+
